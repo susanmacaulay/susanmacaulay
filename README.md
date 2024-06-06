@@ -1,4 +1,5 @@
 # - 👋 Hi, I’m Susan Macaulay
+## I am a Data Scientist
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Data Science and AI with Tech4Dev and  working on several projects to challenge myself and improve my analytical skills
 - I obtain, clean and validate data to ensure accuracy, consistency and reliability of data sets
