@@ -17,3 +17,4 @@ Excel
 Power BI
 Python
 SQL
+Machine Learning
